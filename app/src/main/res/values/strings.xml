@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Secret Message</string>
+    <string name="welcome_text">Welcome to the Secret Message app! Use this app to encrypt a secret message. Click on the Start button to begin.</string>
+    <string name="start">Start</string>
+    <string name="message">Please enter your secret message</string>
+    <string name="submit">Submit</string>
+    <string name="encrypted">Here is your encrypted message</string>
+</resources>
